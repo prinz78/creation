@@ -1,1 +1,2 @@
-j'ai crée un nouveau fichier txt pour voir si l'ajour par push ce fait bien hor du fichier principale
+j'ai crée un nouveau fichier txt pour voir si l'ajout par push ce fait bien hor du fichier principale .
+Aparament l'ajout s'est bien effectuer maintenant je vais tiré ce fichier depuis github avec git pull pour voir ces modification.
